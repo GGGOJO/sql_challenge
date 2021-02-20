@@ -44,3 +44,14 @@ Once the data have been imported, I could run the queries (my solution's approac
 
 8.    In descending order, list the frequency count of employee last names, i.e., how many employees share each last name. *APPROACH: group by and order desc from employees table.*
 
+## Bonus Questions
+Import SQL Data from Postgresql and conduct the following data analysis using Pandas in Jupyter Notebook:
+1. Create a histogram to visualize the most common salary ranges for emmployees. 
+2. Create a bar chart of average salary by title.
+
+After diving into the data, what is the answer to this question? 
+
+Q: Is the Pewlett Hackard Employee Data fake? 
+A: Yes, it is.
+
+
